@@ -55,12 +55,6 @@
       </a>
       <br>VScode
     </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://github.com/jupyter/design/blob/e088387232fb13da8fb9ab4ce017e5dd23a114a0/logos/Logo%20Mark/logomark-orangebody-greyplanets/logomark-orangebody-greyplanets.svg" width="48" height="48" alt="Jupyter" />
-      </a>
-      <br>Jupyter
-    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="48" height="48" alt="MySQL" />
@@ -116,12 +110,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" width="48" height="48" alt="FontAwesome" />
-      </a>
-      <br>FontAwes
     </td>
     <td align="center" width="96">
       <a href="#">
