@@ -6,7 +6,7 @@
   🏅 I just graduated PlayData(Encore Academy)'s Big Data Engineering BootCamp and I'm hoping to enter the market  as a web dev.
 
 
-## ${\color{#7E4DD2}💟 \space Contact \space Me }$
+## ${\color{#7E4DD2}💟 \space Contact \space Me \space Anytime }$
   <a href="https://hihwa.tistory.com">
     <img height="25" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=[(https://hihwa.tistory.com)]/"/>
   </a>
@@ -33,7 +33,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&labelColor=%23263759&countColor=%23fcf6e5)
 
 
-## ${\color{#CCE395}🌿 \space Languages \space and \space Tools}$
+## ${\color{#EF7B4D}🔥 \space Languages \space and \space Tools}$
 
 <table>
   <tr>
@@ -149,9 +149,11 @@
     </td>
   </tr>
 </table>
-<h2>🐍 My commits being devoured 😨🤭
-      <img width="100%" src="https://github.com/happinhwa/happinhwa/blob/output/github-contribution-grid-snake.svg">
-   </h2>
+
+
+<br><br>
+## ${\color{#CCE395}🐍 \space My \space commits \space being \space devoured \space 😨🤭}$
+  <img width="100%" src="https://github.com/happinhwa/happinhwa/blob/output/github-contribution-grid-snake.svg">
 <div> 
   <!-- python --><!-- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <!-- r --><!-- <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
