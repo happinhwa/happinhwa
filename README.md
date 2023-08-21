@@ -121,7 +121,7 @@
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" width="48" height="48" alt="FontAwesome" />
       </a>
-      <br>FontAwesome
+      <br>FontAwes
     </td>
     <td align="center" width="96">
       <a href="#">
