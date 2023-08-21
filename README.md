@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <div align=center> 
   <!-- python -->
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
-
   <!-- django -->
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <!-- gunicorn -->
@@ -34,30 +32,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <!-- mongodb -->
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <br>
-
   <!-- docker -->
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <!-- elasticsearch -->
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-  <!-- logstash -->
-  <img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white">
   <br>
 
-  <!-- redis -->
-  <!-- <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> -->
-  <!-- apachekafka -->
-  <!-- <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> -->
-  <!-- apacheairflow -->
-  <!-- <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"> -->
-  <!-- fastapi -->
-  <!-- <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">  -->
-  <!-- <br> -->
-
+  
   <!-- ubuntu -->
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
   <!-- googlecloud -->
   <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> 
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <br>
 
   <!-- html5 -->
