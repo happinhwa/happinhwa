@@ -1,4 +1,4 @@
-## ${\color{lightblue}🦋 \space Come \space check \space my \space github \space :)} $ 
+## ${\color{#79b6c9}🦋 \space Come \space check \space my \space github \space :)} $ 
 <!-- ### $\textcolor{green}{\text{Hi, Come check my github :)}}$ -->
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
   👩🏻‍💻 My name is Inhwa but you can also call me Desiree.<br>
@@ -25,7 +25,7 @@
 
 
 
-## ${\color{#FCF6E5}✨ \space GitHub \space Stats}$
+## ${\color{#e8d399}✨ \space GitHub \space Stats}$
 
 ![Happinhwa's github stats](https://github-readme-stats.vercel.app/api?username=happinhwa&show_icons=true&theme=solarized-light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happinhwa&theme=solarized-light&layout=compact)
@@ -152,7 +152,7 @@
 
 
 <br><br>
-## ${\color{#CCE395}🐍 \space My \space commits \space being \space devoured \space 😨🤭}$
+## ${\color{#aac766}🐍 \space My \space commits \space being \space devoured \space 😨🤭}$
   <img width="100%" src="https://github.com/happinhwa/happinhwa/blob/output/github-contribution-grid-snake.svg">
 <div> 
   <!-- python --><!-- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
