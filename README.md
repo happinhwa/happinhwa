@@ -30,6 +30,10 @@
 ![Happinhwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=happinhwa&show_icons=true&theme=solarized-light&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happinhwa&layout=compact&theme=solarized-light&show_icons=true)
 
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=happinhwa&theme=ayu_mirage)-->
+
+<!--![](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=GitHub&logoColor=white"> -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&labelColor=%23263759&countColor=%23fcf6e5)
 
 
