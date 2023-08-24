@@ -30,7 +30,7 @@
 
 ## ${\color{#e8d399}✨ \space GitHub \space Stats}$
 <a href="https://github.com/happinhwa/happinhwa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=happinhwa&theme=solarized-light" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=happinhwa&theme=solarized-light&card_width=400" />
 </a>
 <a href="https://github.com/happinhwa/happinhwa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happinhwa&layout=compact&langs_count=8&card_width=320&theme=solarized-light&rank-icon=github" />
