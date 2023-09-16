@@ -25,7 +25,9 @@
   🔗<a href="https://github.com/happinhwa/mini_project">
     <img height="25" src="https://img.shields.io/badge/Talent Shoppinig Mall-F2B7B7?style=flat-square&logo=GitHub%20Sponsors&logoColor=black">
   </a> <br>
-
+  🔗<a href="https://github.com/happinhwa/final">
+    <img height="25" src="https://img.shields.io/badge/MooChu:Movie Recommendation Website-F2B7B7?style=flat-square&logo=GitHub%20Sponsors&logoColor=black">
+  </a> <br>
 
 
 ## ${\color{#e8d399}✨ \space GitHub \space Stats}$
