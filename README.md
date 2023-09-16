@@ -30,12 +30,11 @@
 
 ## ${\color{#e8d399}✨ \space GitHub \space Stats}$
 <a href="https://github.com/happinhwa/happinhwa">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=happinhwa&theme=solarized-light&card_width=400" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=happinhwa&card_width=380&show_icons=true&rank_icon=github&custom_title=Happinhwa's%20GitHub%20Stats&title_color=88B04B&icon_color=424F5D&text_color=ABA398&bg_color=F5F3EB&ring_color=E1A4A7&border_color=88B04B" />
 </a>
 <a href="https://github.com/happinhwa/happinhwa">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happinhwa&layout=compact&langs_count=8&card_width=400&theme=solarized-light&rank-icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happinhwa&layout=compact&langs_count=8&card_width=380&custom_title=Happinhwa's%20Most%20Used%20%Languages&&title_color=88B04B&text_color=ABA398&bg_color=F5F3EB&border_color=88B04B" />
 </a>
-
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&labelColor=%23263759&countColor=%23fcf6e5) -->
 
 
@@ -99,30 +98,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML 5
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS 3
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>Javascript
-    </td>
     <td align="center"  width="96">
       <a href="#">
         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
@@ -152,6 +127,30 @@
         <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48" height="48" alt="Jira" />
       </a>
       <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
     </td>
   </tr>
 </table>
