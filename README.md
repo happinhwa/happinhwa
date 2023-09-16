@@ -30,10 +30,10 @@
 
 ## ${\color{#e8d399}✨ \space GitHub \space Stats}$
 <a href="https://github.com/happinhwa/happinhwa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=happinhwa&theme=solarized-light&card_width=400" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=happinhwa&theme=solarized-light&card_width=400" />
 </a>
 <a href="https://github.com/happinhwa/happinhwa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happinhwa&layout=compact&langs_count=8&card_width=320&theme=solarized-light&rank-icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happinhwa&layout=compact&langs_count=8&card_width=400&theme=solarized-light&rank-icon=github" />
 </a>
 
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&labelColor=%23263759&countColor=%23fcf6e5) -->
