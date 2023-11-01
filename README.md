@@ -1,40 +1,53 @@
-## ${\color{lightblue}🦋 \space Come \space check \space my \space github \space :)} $ 
-<!-- ### $\textcolor{green}{\text{Hi, Come check my github :)}}$ -->
+${\color{#79b6c9}\Large{🦋 \space Come \space check \space my \space github \space :)}}$
+<p>
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
   👩🏻‍💻 My name is Inhwa but you can also call me Desiree.<br>
   🎓 I have a bachelor's degree on Applied Statistics & Health and Environmental Science.<br>
   🏅 I just graduated PlayData(Encore Academy)'s Big Data Engineering BootCamp and I'm hoping to enter the market  as a web dev.
+</p>
 
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&label=♡visitors♡&labelColor=%23D5EDFF&countColor=%23D5EDFF)
+<!-- ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&label=♡visitors♡&labelColor=%23E4CCFF&countColor=%23E4CCFF) -->
 
-## ${\color{#7E4DD2}💟 \space Contact \space Me }$
+##
+${\color{#7E4DD2}\Large{💟 \space Contact \space Me \space Anytime }}$
+<p>
   <a href="https://hihwa.tistory.com">
     <img height="25" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=[(https://hihwa.tistory.com)]/"/>
   </a>
   <a href="mailto:happinhwa@gmail.com">
     <img height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happinhwa@gmail.com"/>
   </a> 
+</p>
 
-
-## ${\color{lightpink}🎀 \space Projects}$
+##
+${\color{lightpink}\Large{🎀 \space Projects }}$
+<p>
   🔗<a href="https://github.com/happinhwa/project_seo">
     <img height="25" src="https://img.shields.io/badge/Teacher's Day Event-F2B7B7?style=flat-square&logo=GitHub%20Sponsors&logoColor=black">
   </a> <br>
   🔗<a href="https://github.com/happinhwa/mini_project">
     <img height="25" src="https://img.shields.io/badge/Talent Shoppinig Mall-F2B7B7?style=flat-square&logo=GitHub%20Sponsors&logoColor=black">
   </a> <br>
+  🔗<a href="https://github.com/happinhwa/final">
+    <img height="25" src="https://img.shields.io/badge/MooChu:Movie Recommendation Website-F2B7B7?style=flat-square&logo=GitHub%20Sponsors&logoColor=black">
+  </a> <br>
+</p>
 
+##
+${\color{#e8d399}\Large{✨ \space GitHub \space Stats }}$
+<p>
+<a href="https://github.com/happinhwa/happinhwa">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=happinhwa&card_width=380&show_icons=true&rank_icon=github&custom_title=Happinhwa's%20GitHub%20Stats&title_color=88B04B&icon_color=424F5D&text_color=ABA398&bg_color=F5F3EB&ring_color=E1A4A7&border_color=88B04B" />
+</a>
+<a href="https://github.com/happinhwa/happinhwa">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happinhwa&layout=compact&langs_count=8&card_width=380&custom_title=Happinhwa's%20Most%20Used%20%Languages&&title_color=88B04B&text_color=ABA398&bg_color=F5F3EB&border_color=88B04B" />
+</a>
+</p>
 
-
-## ${\color{#FCF6E5}✨ \space GitHub \space Stats}$
-
-![Happinhwa's github stats](https://github-readme-stats.vercel.app/api?username=happinhwa&show_icons=true&theme=solarized-light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happinhwa&theme=solarized-light&layout=compact)
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&labelColor=%23263759&countColor=%23fcf6e5)
-
-
-## ${\color{#CCE395}🌿 \space Languages \space and \space Tools}$
-
+##
+${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
+<p>
 <table>
   <tr>
     <td align="center" width="96">
@@ -54,12 +67,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
       </a>
       <br>VScode
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://github.com/jupyter/design/blob/e088387232fb13da8fb9ab4ce017e5dd23a114a0/logos/Logo%20Mark/logomark-orangebody-greyplanets/logomark-orangebody-greyplanets.svg" width="48" height="48" alt="Jupyter" />
-      </a>
-      <br>Jupyter
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -99,36 +106,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML 5
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS 3
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" width="48" height="48" alt="FontAwesome" />
-      </a>
-      <br>FontAwesome
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>Javascript
-    </td>
     <td align="center"  width="96">
       <a href="#">
         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
@@ -159,11 +136,39 @@
       </a>
       <br>Jira
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
   </tr>
 </table>
-<h2>🐍 My commits being devoured 😨🤭
-      <img width="100%" src="https://github.com/happinhwa/happinhwa/blob/output/github-contribution-grid-snake.svg">
-   </h2>
+</p>
+<br>
+
+##
+${\color{#aac766}\Large{🐍 \space My \space commits \space being \space devoured \space 😨🤭 }}$
+<p>
+  <img width="100%" src="https://github.com/happinhwa/happinhwa/blob/output/github-contribution-grid-snake.svg">
 <div> 
   <!-- python --><!-- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <!-- r --><!-- <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
@@ -188,3 +193,4 @@
   <!-- jira --><!-- <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <!-- confluence --><!-- <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"> 
 </div>
+</p>
