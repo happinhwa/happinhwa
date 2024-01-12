@@ -3,7 +3,8 @@ ${\color{#79b6c9}\Large{🦋 \space Come \space check \space my \space github \s
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
   👩🏻‍💻 My name is Inhwa but you can also call me Desiree.<br>
   🎓 I have a bachelor's degree on Applied Statistics & Health and Environmental Science.<br>
-  🏅 I just graduated PlayData(Encore Academy)'s Big Data Engineering BootCamp and I'm hoping to enter the market  as a web dev.
+  🏅 I graduated [PlayData(Encore Academy)'s Big Data Engineering] BootCamp.<br>
+  📚 I am currently taking [SBA SeSAC's UXUI Design & Web Publishing] course.
 </p>
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&label=♡visitors♡&labelColor=%23D5EDFF&countColor=%23D5EDFF)
@@ -68,6 +69,18 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
       </a>
       <br>VScode
     </td>
+        <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS 3
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="48" height="48" alt="MySQL" />
@@ -92,18 +105,6 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
       </a>
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" width="48" height="48" alt="GCP" />
-      </a>
-      <br>GCP
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -114,9 +115,9 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
+        <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" width="48" height="48" alt="Figma" />
       </a>
-      <br>Git
+      <br>Figma
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -137,18 +138,6 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
       <br>Jira
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML 5
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS 3
-    </td>
-    <td align="center" width="96">
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
       </a>
@@ -159,6 +148,18 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
     </td>
   </tr>
 </table>
