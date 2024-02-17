@@ -13,11 +13,14 @@ ${\color{#79b6c9}\Large{🦋 \space Come \space check \space my \space github \s
 ##
 ${\color{#7E4DD2}\Large{💟 \space Contact \space Me \space Anytime }}$
 <p>
+  <a href="mailto:happinhwa@gmail.com">
+    <img height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happinhwa@gmail.com"/>
+  </a> 
   <a href="https://hihwa.tistory.com">
     <img height="25" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=[(https://hihwa.tistory.com)]/"/>
   </a>
-  <a href="mailto:happinhwa@gmail.com">
-    <img height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happinhwa@gmail.com"/>
+  <a href="">
+    <img height="25" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=[(https://velog.io/@happinhwa/posts)]"/>
   </a> 
 </p>
 
@@ -83,6 +86,18 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
     </td>
     <td align="center" width="96">
       <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" width="48" height="48" alt="jQuery" />
+      </a>
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
@@ -93,6 +108,8 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
       </a>
       <br>MongoDB
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="48" height="48" alt="Docker" />
@@ -105,8 +122,6 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
       </a>
       <br>Linux
     </td>
-  </tr>
-  <tr>
     <td align="center"  width="96">
       <a href="#">
 <!--         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" /> -->
@@ -137,18 +152,6 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
         <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48" height="48" alt="Jira" />
       </a>
       <br>Jira
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#">
