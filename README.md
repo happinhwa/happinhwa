@@ -109,7 +109,8 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
   <tr>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
+<!--         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" /> -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/600px-GitHub_Invertocat_Logo.svg.png" width="48" height="48" alt="Github" />
       </a>
       <br>Github
     </td>
