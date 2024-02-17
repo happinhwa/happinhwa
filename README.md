@@ -19,7 +19,7 @@ ${\color{#7E4DD2}\Large{💟 \space Contact \space Me \space Anytime }}$
   <a href="https://hihwa.tistory.com">
     <img height="25" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=[(https://hihwa.tistory.com)]/"/>
   </a>
-  <a href="">
+  <a href="https://velog.io/@happinhwa/posts">
     <img height="25" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=[(https://velog.io/@happinhwa/posts)]"/>
   </a> 
 </p>
