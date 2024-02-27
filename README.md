@@ -1,6 +1,8 @@
+
+
 ${\color{#79b6c9}\Large{🦋 \space Come \space check \space my \space github \space :)}}$
 <p>
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://github.com/images/mona-whisper.gif" width="35px"><br>
   👩🏻‍💻 My name is Inhwa but you can also call me Desiree.<br>
   🎓 I have a bachelor's degree on Applied Statistics & Health and Environmental Science.<br>
   🏅 I graduated [PlayData(Encore Academy)'s Big Data Engineering] BootCamp.<br>
