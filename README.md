@@ -5,8 +5,8 @@ ${\color{#79b6c9}\Large{🦋 \space Come \space check \space my \space github \s
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://github.com/images/mona-whisper.gif" width="35px"><br>
   👩🏻‍💻 My name is Inhwa but you can also call me Desiree.<br>
   🎓 I have a bachelor's degree on Applied Statistics & Health and Environmental Science.<br>
-  🏅 I graduated [PlayData(Encore Academy)'s Big Data Engineering] BootCamp.<br>
-  📚 I am currently taking [SBA SeSAC's UXUI Design & Web Publishing] course.
+  📚 I graduated [PlayData(Encore Academy)'s Big Data Engineering] and [SBA SeSAC's UXUI Design & Web Publishing] course.<br>
+  💻 Currently working as a Business Intelligence Analyst using Spotfire :)
 </p>
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&label=♡visitors♡&labelColor=%23D5EDFF&countColor=%23D5EDFF)
@@ -58,6 +58,12 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
   <tr>
     <td align="center" width="96">
       <a href="#">
+        <img src="https://play-lh.googleusercontent.com/NXBN3ePNBZjhnNcrvDAmfzNlC3aIapALIbFrrGt6m2B7TGBVU_1rzI5kWQdSXCFw8I7Y" width="48" height="48" alt="Python" />
+      </a>
+      <br>Spotfire
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -104,12 +110,12 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
